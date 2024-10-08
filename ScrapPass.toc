@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: ScrapPass
+## Author: Abstractz
+## Notes: Auto-pass on Naxx's Wartorn Scraps.
+
+ScrapPass.lua
